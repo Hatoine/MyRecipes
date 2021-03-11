@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.9.1)
+  - PaddingLabel (1.2)
+
+DEPENDENCIES:
+  - Alamofire (= 4.9.1)
+  - PaddingLabel (= 1.2)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - PaddingLabel
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  PaddingLabel: 21ab5282c780366018b04c30e3920c2f55a2fd14
+
+PODFILE CHECKSUM: a843c669fc6d068a2fa5dc5ba7b929847171c271
+
+COCOAPODS: 1.8.4
